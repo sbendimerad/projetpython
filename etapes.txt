@@ -1,0 +1,9 @@
+# aller sur github
+# créer un repo avec un readme
+# récupérer l'url ssh
+# repartir sur vscode
+# faire : git clone urlssh
+# copier vos fichiers de projet dans le répertoire qui a été cloné
+# git add .
+# git commit -m "add files"
+# fit push origin main 
